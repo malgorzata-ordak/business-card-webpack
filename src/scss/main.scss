@@ -3,11 +3,77 @@
 @import "_variables";
 @import "modules/hello.scss";
 
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
 body {
-  background: $wtf;
-  color: #fff;
+  background: #2c2141;
   display: flex;
   align-items: center;
   justify-content: center;
   min-height: 100vh;
+  font-family: Arial, Helvetica, sans-serif;
 }
+
+.main {
+  background: #f8f8f8;
+  border-radius: 16px;
+  width: 624px;
+  margin: 16px;
+  padding: 32px;
+}
+
+.osoba {
+  display: flex;
+  align-items: flex-start;
+}
+
+.osoba__zdjęcie {
+  border-radius: 50%;
+  margin-right: 32px;
+}
+
+.osoba__info {
+  margin-bottom: 24px;
+}
+
+.osoba__link {
+  color: #e20613;
+  text-decoration: none;
+}
+
+.osoba__nazwa {
+  font-size: 36px;
+  margin: 0px;
+  font-weight: normal;
+}
+
+.osoba__stanowisko {
+  font-size: 18px;
+  margin: 0px;
+  font-style: italic;
+  color: #545454;
+}
+
+.osoba__opis {
+  font-size: 16px;
+  line-height: 22px;
+  margin: 0;
+}
+
+.osoba__opis--modyfikator {
+  margin-bottom: 22px;
+}
+
+.special {
+  color: #ed6d05;
+  font-weight: normal;
+}
+
