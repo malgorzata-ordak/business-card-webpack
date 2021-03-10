@@ -12,6 +12,6 @@ Informacje, które zawiera wizytówka są napisane z *przymrużeniem oka*. Nie t
 
 Mimo, że informacje tu zawarte mają żartobliwą treść, a sam projekt nie był zbytnio obszerny, to miał dla mnie (jako ucznia) duże znaczenie. Pozwolił poszerzyć moją programistyczną wiedzę i pokazał, że to naprawdę można się w to mocno *wkręcić* :)
 
-**Proszę mieć na uwadze, że projekt był budowany od podstaw przez kilka dni. Do tego repozytorium został jedynie przeniesiony (już jako gotowy),z racji potrzeby wykorzystania Webpack Starter kit.**
+**Proszę mieć na uwadze, że projekt był budowany od podstaw przez kilka dni. Do tego repozytorium został jedynie przeniesiony z innego repozytorium (już jako gotowy), ze względu na potrzebę wykorzystania Webpack Starter kit.**
 
 
