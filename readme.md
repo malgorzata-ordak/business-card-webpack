@@ -10,7 +10,7 @@ Informacje, które zawiera wizytówka są napisane z *przymrużeniem oka*. Nie t
 
 ## Warto wiedzieć
 
-Mimo, że informacje tu zawarte mają żartobliwą treść, a sam projekt nie był zbytnio obszerny, to miał dla mnie (jako ucznia) duże znaczenie. Pozwolił poszerzyć moją programistyczną wiedzę i pokazał, że to naprawdę można się w to mocno *wkręcić* :)
+Mimo, że informacje tu zawarte mają żartobliwy charakter, a sam projekt nie był zbytnio obszerny, to miał dla mnie (jako ucznia) duże znaczenie. Pozwolił poszerzyć moją programistyczną wiedzę i uświadomił mi, że naprawdę można się w to mocno *wkręcić* :)
 
 **Proszę mieć na uwadze, że projekt był budowany od podstaw przez dłuższy czas. Do tego repozytorium został jedynie przeniesiony z innego repo (link poniżej), ze względu na potrzebę wykorzystania Webpack Starter Kit.** Jak wyglądały etapy towrzenia tego projektu można prześledzić tutaj: **https://github.com/malgorzata-ordak/business-card**
 
