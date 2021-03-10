@@ -1,18 +1,15 @@
-![cover](https://cotenfrontend.pl/img/cover.png)
+![cover](./gh/wizytowka-zdj.png)
 
-# WTF Webpack Starter Kit 
+# Moja wizytówka
 
-Simple toolkit for your static websites development.
+To jest moja pierwsza w życiu wizytówka, do tego zrobiona przeze mnie :)
 
-## How to use it?
+## Pół żartem pół serio
 
-Click on `Use this template` button to generate a new repository based on this starter kit. After that clone it to your computer, go to the project directory in console and type `npm install`.
+Informacje, które zawiera wizytówka są napisane z *przymrużeniem oka*. Nie traktuj ich proszę bardzo poważnie.
 
-## Available scripts
+## Warto wiedzieć
 
-`npm run start` - runs development mode
+Mimo, że informacje tu zawarte mają żartobliwą treść, a sam projekt nie był zbytnio obszerny, to miał dla mnie (jako ucznia) duże znaczenie. Pozwolił poszerzyć moją programistyczną wiedzę i pokazał, że to naprawdę można się w to mocno *wkręcić* :)
 
-`npm run build` - runs build process for production
-
-`npm run publish` - runs build process and publish the page using `gh-pages` branch
 
